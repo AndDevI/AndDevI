@@ -7,10 +7,10 @@
 
  <div>
     <a href="https://github.com/AndDevI/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&theme=transparent" />
 </a>
 <a href="https://github.com/AndDevI/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
  </div>
  
