@@ -2,7 +2,7 @@
 
 - 👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
 - 📓 Cursando Análise e Desenvolvimento de Sistemas
-- 🖥️ Desenvolvendo e Aprendendo linguagens FRONT-END
+- 🖥️ Desenvolvendo e Aprendendo linguagens para o FullStack
 
 
  <div>
