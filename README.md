@@ -3,14 +3,13 @@
 - 👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
 - 📓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Desenvolvendo e Aprendendo linguagens para o FullStack
-
-
+ 
  <div>
     <a href="https://github.com/AndDevI/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&theme=transparent" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/AndDevI/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
  </div>
  
