@@ -4,11 +4,16 @@
 - 📓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Desenvolvendo e Aprendendo linguagens FRONT-END
 
-<div align="center">
-  <a href="https://github.com/AndDevI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndDevI&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+ <div>
+    <a href="https://github.com/AndDevI/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&theme=transparent" />
+</a>
+<a href="https://github.com/AndDevI/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+ </div>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
