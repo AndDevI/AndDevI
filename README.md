@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 - 👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
@@ -11,10 +11,10 @@
 
  <div align="center">
     <a href="https://github.com/AndDevI/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&icon_color=FFD700&bg_color=000000&title_color=FFD700&text_color=ffffff" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&icon_color=50c878&bg_color=000000&title_color=50c878&text_color=ffffff&" />
 </a>
 <a href="https://github.com/AndDevI/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&title_color=FFD700&text_color=ffffff&bg_color=000000" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&title_color=50c878&text_color=ffffff&bg_color=000000" />
 </a>
  </div>
 
@@ -37,4 +37,4 @@
 </picture>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
