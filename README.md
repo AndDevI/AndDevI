@@ -11,7 +11,7 @@
 
  <div align="center">
     <a href="https://github.com/AndDevI/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&icon_color=50c878&bg_color=000000&title_color=50c878&text_color=ffffff&" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&icon_color=385f8f&bg_color=000000&title_color=50c878&text_color=ffffff&" />
 </a>
 <a href="https://github.com/AndDevI/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&title_color=50c878&text_color=ffffff&bg_color=000000" />
