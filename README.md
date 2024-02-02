@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 - 👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
