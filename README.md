@@ -18,16 +18,23 @@
 </a>
  </div>
 
-##
 <br>
+
 <div align="center">
-    <br>
+ <h1>Front-end</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
+  </a>
+ 
+
+ <h1>Others</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c"/>
   </a>
 </div>
 
 ##
+
 <br>
  <div align="center">  
   <a href = "mailto:andrewrgpires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -35,7 +42,7 @@
   <a href="https://w.app/7kemrf" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <div>
 
-##
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndDevI/AndDevI/output/github-contribution-grid-snake-dark.svg">
