@@ -29,7 +29,7 @@
 
  <h1>Others</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c"/>
+    <img src="https://skillicons.dev/icons?i=c,github"/>
   </a>
 </div>
 
