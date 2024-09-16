@@ -29,7 +29,13 @@
 
  <h1>Others</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,github"/>
+    <img src="https://skillicons.dev/icons?i=c"/>
+  </a>
+
+
+   <h1>Tools</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux"/>
   </a>
 </div>
 
