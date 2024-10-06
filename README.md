@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
-- 👔 Hoje trabalhando como Desenvolvedor FullStack Trainee
+- 👔 Hoje trabalhando como Desenvolvedor FullStack
 - 📓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Desenvolvendo e Aprendendo linguagens para o FullStack 
 
