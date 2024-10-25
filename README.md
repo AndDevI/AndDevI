@@ -25,11 +25,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
   </a>
- 
+
+  <h1>Back-end</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php"/>
+  </a>
 
  <h1>Others</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c"/>
+    <img src="https://skillicons.dev/icons?i=c,laravel"/>
   </a>
 
 
