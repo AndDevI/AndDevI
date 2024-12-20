@@ -33,7 +33,7 @@
 
  <h1>Others</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,laravel, mysql"/>
+    <img src="https://skillicons.dev/icons?i=c,laravel,mysql"/>
   </a>
 
 
