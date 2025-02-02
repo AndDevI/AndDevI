@@ -23,7 +23,7 @@
 <div align="center">
  <h1>Front-end</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
   </a>
 
   <h1>Back-end</h1>
