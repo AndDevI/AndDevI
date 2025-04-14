@@ -28,7 +28,7 @@
 
   <h1>Back-end</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php"/>
+    <img src="https://skillicons.dev/icons?i=php,go"/>
   </a>
 
  <h1>Others</h1>
