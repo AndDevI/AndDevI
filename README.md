@@ -1,64 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5A189A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi!+World,+eu+sou+o+Andrew+Raphael;Sou+de+Belo+Horizonte,+MG;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<img src="https://github-readme-stats.vercel.app/api?username=AndDevI&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
-
-- 👔 Hoje trabalhando como Desenvolvedor FullStack
-- 📓 Cursando Análise e Desenvolvimento de Sistemas
-- 🖥️ Desenvolvendo e Aprendendo linguagens para o FullStack 
-
-<br>
-
- <div align="center">
-    <a href="https://github.com/AndDevI/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AndDevI&show_icons=true&icon_color=385f8f&bg_color=000000&title_color=50c878&text_color=ffffff&" />
-</a>
-<a href="https://github.com/AndDevI/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&layout=compact&langs_count=8&card_width=320&title_color=50c878&text_color=ffffff&bg_color=000001" />
-</a>
- </div>
-
-<br>
-
-<div align="center">
- <h1>Front-end</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
-  </a>
-
-  <h1>Back-end</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,go"/>
-  </a>
-
- <h1>Others</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,laravel,mysql"/>
-  </a>
-
-
-   <h1>Tools</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux"/>
-  </a>
-</div>
-
-
+<h3 align="left">
+  <img src="https://abs.twimg.com/emoji/v2/svg/1f4aa.svg" width="10">
+      Analista de desenvolvimento Back-End <br>
+  <img src="https://abs.twimg.com/emoji/v2/svg/1f4aa.svg" width="10">
+      Belo Horizonte, Brasil :city_sunset:<br>
+  <img src="https://abs.twimg.com/emoji/v2/svg/1f4aa.svg" width="10">
+      Estudante de Análise e Desenvolvimento de Sistemas <br>
+</h3>
 
 <br><br>
- <div align="center">  
-  <a href = "mailto:andrewrgpires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrew-pires-rgcc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://w.app/7kemrf" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=AndDevI&theme=midnight-purple&hide_border=true" width="56%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDevI&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" align="center">
+<br><br>
+
+<!-- Tecnologias inline acima da cobrinha -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,go,c,laravel,mysql,git,github,linux" alt="Tecnologias" />
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/AndDevI/AndDevI/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<br>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndDevI/AndDevI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndDevI/AndDevI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndDevI/AndDevI/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5A189A&height=120&section=footer"/>
